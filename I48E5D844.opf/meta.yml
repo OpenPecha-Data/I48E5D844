@@ -1,0 +1,16 @@
+id: I48E5D844
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:06:47.688745
+last_modified: 2023-02-09 15:06:47.688846
+source_metadata:
+  title: 'MSV 1,07: Cīvaravastu'
+  language: bo
+bases:
+  3D4D:
+    base_file: 3D4D.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
